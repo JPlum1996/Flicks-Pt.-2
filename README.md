@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="http://i.imgur.com/sktBaQ7.gif" />
 
-Gif link: http://imgur.com/sktBaQ7
+GIF link: http://imgur.com/sktBaQ7
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
