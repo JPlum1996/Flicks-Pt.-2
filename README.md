@@ -1,20 +1,15 @@
 # Flicks-Pt.-2
 # Project 2 - *Flicks Pt.2*
 
-**Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-Time spent: **20** hours spent in total
+**Flicks** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is available:
 
 - [X] User can view movie details by tapping on a cell.
 - [X] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
 - [X] Customize the selection effect of the cell.
-
-The following **optional** features are implemented:
-
 - [X] Customize the navigation bar.
 - [X] Added an "upcoming movies" tab
 - [X] Added UI search bar
